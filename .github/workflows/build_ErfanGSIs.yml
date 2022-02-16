@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/22.2.9/miui_TUCANA_22.2.9_4959ce9155_11.0.zip
+  ROM_URL: https://bigota.d.miui.com/22.2.15/miui_GAUGUINPRE_22.2.15_91cf8515c5_12.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
